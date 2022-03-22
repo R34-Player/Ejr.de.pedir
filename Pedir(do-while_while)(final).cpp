@@ -19,7 +19,7 @@ int main(){
 	cout<<"Ingresa tu apellido materno: ";
 	cin>>materno;
 //.........................................................................................
-/*
+
     while (opc >= 3) {
         system("cls");
         cout<<"Sexo:\n";
@@ -34,10 +34,11 @@ int main(){
 				
 	    case 2: Sexo='F';break;
 	}
-    */
+    
   //.........................................................................................
   // Esta parte se usa para no igualar "opc" a 0
   //actua y luego piensa
+  /*
      do
 {
        system("cls");
@@ -54,6 +55,7 @@ switch(opc)
                                             //solo si no declaro "sexo" 
 	    case 2: Sexo='F';break; //Sexo="F"
 	}
+    */
 //.........................................................................................
     system("cls");
     cout<<"Ingresa tu numero celular: ";
